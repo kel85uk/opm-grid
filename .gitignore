@@ -68,3 +68,6 @@ dune/grid/test/grdecl2vtu
 
 # Ignoring generated documents
 doc/EquationNotes.pdf
+
+# Build directory
+build/
